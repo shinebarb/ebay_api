@@ -30,5 +30,5 @@ tldextract==3.4.4
 typing-extensions==4.7.1
 url-normalize==1.4.3
 urllib3==2.0.4
-uvicorn==0.23.1
+uvicorn
 validators==0.20.0
